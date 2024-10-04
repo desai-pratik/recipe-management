@@ -41,7 +41,7 @@ const RecipeForm = ({ isOpen, onClose, onAddRecipe }) => {
 
 
   return (
-   <div className="fixed inset-0 z-50 flex items-center justify-center bg-black bg-opacity-50">
+   <div className="fixed inset-0 z-50 flex items-center justify-center bg-black bg-opacity-50 overflow-auto">
       <div className="bg-white rounded-lg shadow-lg p-6 w-11/12 md:w-1/2">
         <h2 className="text-xl font-bold mb-4">Add New Recipe</h2>
         <form onSubmit={handleSubmit}>

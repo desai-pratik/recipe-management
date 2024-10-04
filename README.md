@@ -1,8 +1,8 @@
 # Recipe Management - (Create React App)
 
-[home page](./public/assets//Screenshot_8.png).
-[Recipe description page](./public/assets//Screenshot_9.png).
-[Create recipe page](./public/assets//Screenshot_10.png).
+![home page](./public/assets//Screenshot_8.png)
+![Recipe description page](./public/assets//Screenshot_9.png)
+![Create recipe page](./public/assets//Screenshot_10.png)
 
 ## Start the React application:
 
