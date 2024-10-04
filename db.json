@@ -1,0 +1,85 @@
+{
+  "Recipe": [
+    {
+      "title": "json-server --watch db.json --port 3004",
+      "ingredients": [
+        "Spaghetti",
+        "Parmesan",
+        "Eggs",
+        "Black-Pepper"
+      ],
+      "instruction": "Monitor the terminal where your JSON Server is running. It should provide logs that may give insight into why the DELETE request is failing.\nVerify URL Structure:\n\nMake sure that the base URL and endpoint match what's expected in your API. Double-check the server URL and port.\nExample of the DELETE Request in Postman:Monitor the terminal where your JSON Server is running. It should provide logs that may give insight into why the DELETE request is failing.\nVerify URL Structure:\n\nMake sure that the base URL and endpoint match what's expected in your API. Double-check the server URL and port.\nExample of the DELETE Request in Postman:Monitor the terminal where your JSON Server is running. It should provide logs that may give insight into why the DELETE request is failing.\nVerify URL Structure:\n\nMake sure that the base URL and endpoint match what's expected in your API. Double-check the server URL and port.\nExample of the DELETE Request in Postman:",
+      "cuisine": "indian",
+      "cookingTime": "19",
+      "image": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*U4gZLnRtHEeJuc6tdVLwPw.png",
+      "rating": "6",
+      "id": "67ce"
+    },
+    {
+      "id": "f6be",
+      "title": "Balsamic Roasted Carrots",
+      "cuisine": "THE HILL HANGOUT",
+      "cookingTime": "20",
+      "ingredients": [
+        "Spaghetti Parmesan Eggs Black-Pepper"
+      ],
+      "image": "https://lh3.googleusercontent.com/spucx4fsyB3gxFTbLAtsgO9QSUmzfaDeENqZ939dk9nsbo_OOn8VrbvbShVbBnFomrWhRexQJBjgQKOcXY8CEdU3jYNl057pMA=w320-h320-c-rw-v1-e365",
+      "instruction": "A dummy image URL for testing is a URL that points to an image placeholder or a randomly generated image. These URLs are commonly used by developers and designers to test image functionality in web applications or websites without needing to use actual images.\n\nDummy image URLs typically follow a specific format and allow users to specify parameters such as dimensions, colors, and text to customize the generated image. They are useful for ensuring that image placeholders or layouts are functioning correctly during the development process.A dummy image URL for testing is a URL that points to an image placeholder or a randomly generated image. These URLs are commonly used by developers and designers to test image functionality in web applications or websites without needing to use actual images.\n\nDummy image URLs typically follow a specific format and allow users to specify parameters such as dimensions, colors, and text to customize the generated image. They are useful for ensuring that image placeholders or layouts are functioning correctly during the development process.",
+      "rating": "4"
+    },
+    {
+      "title": "Teriyaki Chicken Stir-fry",
+      "ingredients": [
+        "Spaghetti",
+        "Parmesan",
+        "Eggs",
+        "Black-Pepper"
+      ],
+      "instruction": "Great flavour. I doubled the sauce and it was perfect. I used reduced sodium soy and it was not salty. if i didnt have that I would have reduced the soy by about 20% and subbed with water so it wasnt salty. Overall it was a great dish over Jasmine rice. ** just made it again - needs more sauce ! Triple it or add some white wine (1 cup) I also pan fried the chicken in advance. Cut the chicken into bite size pieces. Place 1.5 cups of flour with salt and pepper. Add the chicken pieces and coat using your hands. Remove and add to hot vegetable oil. About 3 minutes per side. Fry in batches so not to overcrowd. When done place on a wire rack in 200 f oven to keep warm. Cook the veggies in the wok as described. Add the sauce when the veggies are ready and now the beauty chicken and mix and serve.",
+      "cuisine": "BAKE.EAT.REPEAT",
+      "cookingTime": "18",
+      "image": "https://lh3.googleusercontent.com/qYsghRAOUfJJHnjNiD5ZUv8U_txTm5AJWISJnrGt2ANi3LedbWC1P9-O3MaTKwpc0QLY3G7NGDTKb2pBtHCZvaE=w320-h320-c-rw-v1-e365",
+      "rating": "3",
+      "id": "2125"
+    },
+    {
+      "id": "d144",
+      "title": "BBQ Pulled Chicken Sandwiches",
+      "cuisine": "HAUTE AND HEALTHY LIVING",
+      "cookingTime": "50",
+      "ingredients": [
+        "Spaghetti Parmesan Eggs Black-Pepper"
+      ],
+      "image": "https://lh3.googleusercontent.com/i5_gD91fIhHJDsE6_hOA0nJQBUie5M9dAqVNRJD_JUWc_ixhcY9tqZyqxfTZUm3RnCE3rSRmhUAYeWkpwB7dWw=w640-h640-c-rw-v1-e365",
+      "instruction": "I substituted ketchup and beer for the tomatoes sauce and paste. I like how spicy this is. I might make again without the honey.I substituted ketchup and beer for the tomatoes sauce and paste. I like how spicy this is. I might make again without the honey.I substituted ketchup and beer for the tomatoes sauce and paste. I like how spicy this is. I might make again without the honey.I substituted ketchup and beer for the tomatoes sauce and paste. I like how spicy this is. I might make again without the honey.I substituted ketchup and beer for the tomatoes sauce and paste. I like how spicy this is. I might make again without the honey.I substituted ketchup and beer for the tomatoes sauce and paste. I like how spicy this is. I might make again without the honey.I substituted ketchup and beer for the tomatoes sauce and paste. I like how spicy this is. I might make again without the honey.I substituted ketchup and beer for the tomatoes sauce and paste. I like how spicy this is. I might make again without the honey.I substituted ketchup and beer for the tomatoes sauce and paste. I like how spicy this is. I might make again without the honey.I substituted ketchup and beer for the tomatoes sauce and paste. I like how spicy this is. I might make again without the honey.I substituted ketchup and beer for the tomatoes sauce and paste. I like how spicy this is. I might make again without the honey.I substituted ketchup and beer for the tomatoes sauce and paste. I like how spicy this is. I might make again without the honey.I substituted ketchup and beer for the tomatoes sauce and paste. I like how spicy this is. I might make again without the honey.I substituted ketchup and beer for the tomatoes sauce and paste. I like how spicy this is. I might make again without the honey.I substituted ketchup and beer for the tomatoes sauce and paste. I like how spicy this is. I might make again without the honey.I substituted ketchup and beer for the tomatoes sauce and paste. I like how spicy this is. I might make again without the honey.",
+      "rating": "4"
+    },
+    {
+      "id": "5da3",
+      "title": "Ranch Chicken",
+      "cuisine": "indian",
+      "cookingTime": "1",
+      "ingredients": [
+        "Spaghetti Parmesan Eggs Black-Pepper"
+      ],
+      "image": "https://lh3.googleusercontent.com/0sITNI0z8axz6pc6QFiHRFtZEYQoV8WOjTsHveLAdlLKhJBJUFIZZ-MLTFZWuter_WX2xKbwwc2J-rOXkT8Ilw=w640-h640-c-rw-v1-e365",
+      "instruction": "I’ve made this dish many times. It’s easy and perfect for company. You just have to remember to allow enough time to marinate the chicken breasts first. I sauté the breaded chicken breasts first, then bake them at 350 degrees F for about an hour or until done. (I check them after about 45 minutes with a meat thermometer.) Delicious!I’ve made this dish many times. It’s easy and perfect for company. You just have to remember to allow enough time to marinate the chicken breasts first. I sauté the breaded chicken breasts first, then bake them at 350 degrees F for about an hour or until done. (I check them after about 45 minutes with a meat thermometer.) Delicious!I’ve made this dish many times. It’s easy and perfect for company. You just have to remember to allow enough time to marinate the chicken breasts first. I sauté the breaded chicken breasts first, then bake them at 350 degrees F for about an hour or until done. (I check them after about 45 minutes with a meat thermometer.) Delicious!I’ve made this dish many times. It’s easy and perfect for company. You just have to remember to allow enough time to marinate the chicken breasts first. I sauté the breaded chicken breasts first, then bake them at 350 degrees F for about an hour or until done. (I check them after about 45 minutes with a meat thermometer.) Delicious!I’ve made this dish many times. It’s easy and perfect for company. You just have to remember to allow enough time to marinate the chicken breasts first. I sauté the breaded chicken breasts first, then bake them at 350 degrees F for about an hour or until done. (I check them after about 45 minutes with a meat thermometer.) Delicious!I’ve made this dish many times. It’s easy and perfect for company. You just have to remember to allow enough time to marinate the chicken breasts first. I sauté the breaded chicken breasts first, then bake them at 350 degrees F for about an hour or until done. (I check them after about 45 minutes with a meat thermometer.) Delicious!",
+      "rating": "2"
+    },
+    {
+      "id": "2ca9",
+      "title": "Tuna Tacos with Sirracha Slaw",
+      "cuisine": "COOKING FOR KEEPS",
+      "cookingTime": "30",
+      "ingredients": [
+        "Spaghetti",
+        "Parmesan",
+        "Eggs",
+        "Black-Pepper"
+      ],
+      "image": "https://lh3.googleusercontent.com/QgJhmEHcyhHJ0OmpvwLP8X3swYl9AYsA0gGDNJRxSbtL4hCCS_a3GbP5y0cXGAnYPbf3nQQWtG1TeYXGmw4wBg=w640-h640-c-rw-v1-e365",
+      "instruction": "Good! The slaw was very nice - spiced it up with a teaspoon of sriracha and would have used even more if our kid would allow it! Wonton taco shells would put it over the edge! Definitely added to our rotation.Good! The slaw was very nice - spiced it up with a teaspoon of sriracha and would have used even more if our kid would allow it! Wonton taco shells would put it over the edge! Definitely added to our rotation.Good! The slaw was very nice - spiced it up with a teaspoon of sriracha and would have used even more if our kid would allow it! Wonton taco shells would put it over the edge! Definitely added to our rotation.Good! The slaw was very nice - spiced it up with a teaspoon of sriracha and would have used even more if our kid would allow it! Wonton taco shells would put it over the edge! Definitely added to our rotation.Good! The slaw was very nice - spiced it up with a teaspoon of sriracha and would have used even more if our kid would allow it! Wonton taco shells would put it over the edge! Definitely added to our rotation.Good! The slaw was very nice - spiced it up with a teaspoon of sriracha and would have used even more if our kid would allow it! Wonton taco shells would put it over the edge! Definitely added to our rotation.Good! The slaw was very nice - spiced it up with a teaspoon of sriracha and would have used even more if our kid would allow it! Wonton taco shells would put it over the edge! Definitely added to our rotation.",
+      "rating": "5"
+    }
+  ]
+}
